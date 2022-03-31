@@ -15,7 +15,7 @@
     </modules>
 
     <properties>
-        <springBootVersion>2.1.5.RELEASE</springBootVersion>
+        <springBootVersion>2.5.12</springBootVersion>
         <springCloudVersion>Greenwich.SR2</springCloudVersion>
     </properties>
 
